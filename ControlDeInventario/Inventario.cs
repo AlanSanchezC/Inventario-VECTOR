@@ -13,7 +13,7 @@ namespace ControlDeInventario
 
         public Inventario()
         {
-            productos = new Producto[5];
+            productos = new Producto[15];
             ocupados = 0;
         }
 
